@@ -4,7 +4,7 @@
 
 This is a user friendly offline unit conversion tool for the browser. Added mailny six unites Length , Area and Temperature, time, weight and volume so every effort has been made to keep this as simple, fast, and portable as possible.
 
-The site is live <a href="https://himanshuranjan977.github.io/Timely-clone-/" target="_blank">here</a>
+The site is live <a href="https://himanshuranjan977.github.io/Unit-Converter/" target="_blank">here</a>
 
 ## Usage
 
